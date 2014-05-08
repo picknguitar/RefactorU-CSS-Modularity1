@@ -1,0 +1,58 @@
+/*.instructions-container {*/
+	/*background-color: goldenrod;*/
+/*}*/
+
+.instruction-title {
+	font-family: sans-serif;
+	font-size: 30px;
+}
+
+.instruction-text {
+	font-size: 24px;
+	color: #2980b9;
+	font-family: "Trebuchet MS";
+}
+
+.tbl1 {
+	width: 800px;
+	/*border: 1px solid grey;*/
+	border-collapse: collapse;
+}
+
+.tbl1 tr:last-child td {
+	border-bottom: none;
+}
+
+.tbl1 tr {
+	padding-bottom: 20px;
+}
+
+.tbl1 td {
+	border: 1px solid grey;
+	border-right: none;
+	border-left: none;
+	border-top: none;
+	padding: 10px 0;
+}
+
+.3col body {
+	border-collapse: collapse;
+	width: 70px;
+}
+
+.3col {
+	border: 1px solid grey;
+	border-top: none;
+	border-bottom: none;
+}
+
+.bar {
+	background-color: #2980b9;
+	text-align: center;
+	padding: 4px;
+
+}
+
+
+
+
